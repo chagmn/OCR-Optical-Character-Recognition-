@@ -1,0 +1,3 @@
+# OCR-Optical-Character-Recognition-
+
+Apple Vision Framwork only support English...
